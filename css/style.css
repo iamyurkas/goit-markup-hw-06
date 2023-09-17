@@ -471,7 +471,7 @@ address {
     background-color: var(--navyblue);
     background-image: linear-gradient(rgba(46, 47, 66, 0.7),
             rgba(46, 47, 66, 0.7)),
-        url('../../images/background_image_mobile.jpg');
+        url('../images/background_image_mobile.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -485,7 +485,7 @@ screen and (min-device-pixel-ratio: 2) and (max-width: 767px) {
     .hero {
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url('../../images/background_image_mobile@2x.jpg');
+            url('../images/background_image_mobile@2x.jpg');
     }
 }
 
@@ -528,7 +528,7 @@ screen and (min-device-pixel-ratio: 2) and (max-width: 767px) {
     .hero {
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url('../../images/background_image_tablet.jpg');
+            url('../images/background_image_tablet.jpg');
     }
 
     .hero-title {
@@ -546,7 +546,7 @@ screen and (min-device-pixel-ratio: 2) and (min-width: 768px) {
     .hero {
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url('../../images/background_image_tablet@2x.jpg');
+            url('../images/background_image_tablet@2x.jpg');
     }
 }
 
@@ -554,7 +554,7 @@ screen and (min-device-pixel-ratio: 2) and (min-width: 768px) {
     .hero {
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url('../../images/background_image.jpg');
+            url('../images/background_image.jpg');
 
         padding: 188px 0;
     }
@@ -570,7 +570,7 @@ screen and (min-device-pixel-ratio: 2) and (min-width: 1158px) {
     .hero {
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url('../../images/background_image@2x.jpg');
+            url('../images/background_image@2x.jpg');
     }
 }
 .benefits-list {
